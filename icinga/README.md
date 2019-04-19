@@ -26,6 +26,6 @@ The `object Host "apache-cluster-hosts"` section was added to the [hosts.conf](h
 
 # References
 The following items helped me out...
-[Icinga2 Advanced Topics](https://icinga.com/docs/icinga2/latest/doc/08-advanced-topics/)
-[Check cluster plugin](https://www.monitoring-plugins.org/doc/man/check_cluster.html)
-[check_cluster - How To?](https://github.com/monitoring-plugins/monitoring-plugins/issues/1453)
+- [Icinga2 Advanced Topics](https://icinga.com/docs/icinga2/latest/doc/08-advanced-topics/)
+- [Check cluster plugin](https://www.monitoring-plugins.org/doc/man/check_cluster.html)
+- [check_cluster - How To?](https://github.com/monitoring-plugins/monitoring-plugins/issues/1453)
